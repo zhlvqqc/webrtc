@@ -1,2 +1,2 @@
 # webrtc
-webrtc for ohos adapter
+src for webrtc
